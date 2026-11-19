@@ -1,0 +1,21 @@
+
+body {
+  margin: 0;
+}
+
+.app {
+  min-height: 100vh;
+  padding: 30px;
+  box-sizing: border-box;
+  color: black;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 15px;
+  cursor: pointer;
+}
+
+input {
+  padding: 10px;
+}
